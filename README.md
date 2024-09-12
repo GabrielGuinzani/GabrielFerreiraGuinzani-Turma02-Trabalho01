@@ -33,4 +33,5 @@ Os testes unitários neste projeto cobrem as principais funcionalidades da class
 - **Empréstimos**: Funções para gerenciar o empréstimo e devolução de livros.
 - **Outras Funcionalidades**: Como listar livros por autor, gênero e ano de publicação, além de gerar contagens de livros e membros.
 
+
 Essa versão inclui as informações básicas sobre os testes e a natureza acadêmica do projeto.
